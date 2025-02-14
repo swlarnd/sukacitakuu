@@ -27,3 +27,4 @@
 <img src="https://github.com/swlarnd/sukacitakuu/raw/main/181.jpg" alt="Gambar 27">
 <img src="https://github.com/swlarnd/sukacitakuu/raw/main/28.jpg" alt="Gambar 28">
 <img src="https://github.com/swlarnd/sukacitakuu/raw/main/29.jpg" alt="Gambar 29">
+<img src="https://github.com/swlarnd/sukacitakuu/raw/main/gift.jpg" alt="Gambar 30">
