@@ -1,1 +1,1 @@
-https://github.com/swlarnd/sukacitakuu/blob/main/1.jpg?raw=true
+<img src="https://github.com/swlarnd/sukacitakuu/raw/main/1.jpg" alt="Sukacita Kuu">
